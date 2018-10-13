@@ -1,0 +1,4 @@
+apistar
+gunicorn
+PyMySQL
+SQLAlchemy
